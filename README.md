@@ -1,6 +1,6 @@
 # RiverCalder
 
-![S3](figs/calderjba.jpg)
+![caldercatchment](figs/calderjba.png)
 
 ## FEV analysis for the Boxing day 2015 flood of the River Calder at Mytholmroyd
 
