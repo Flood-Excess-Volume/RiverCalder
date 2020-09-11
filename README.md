@@ -21,4 +21,4 @@ See also:
 
 #### Cost-effectiveness analysis
 
-![floodscheme](figs/calderfloodlakev2.jpg)
+![floodscheme](figs/calderfloodlakev2.png)
