@@ -21,7 +21,7 @@ See also:
 From the ```/code``` dir, run: 
  * ```quadrantplot_calder.m``` 
  
-Running, e.g., ```quadrantplot_armleyplus.m``` calls four plotting routines at the end of the sript:
+The script completes the FEV analysis and calls four plotting routines:
  * ```plot3panelerr;```
  * ```plotFEVhT;```
  * ```plot_h_year;```
