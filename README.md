@@ -35,7 +35,7 @@ in total, seven figures are produced, including an adaptation of figure 3 below 
 
 #### Cost-effectiveness analysis
 
-Run ```calderfloodlake.m``` to produce
+Run ```calderfloodlake.m``` to produce figure 7 in Bokhove et al, 2019:
 
 ![floodscheme](figs/calderfloodlakev2.png)
 
